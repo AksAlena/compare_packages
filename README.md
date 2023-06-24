@@ -19,5 +19,5 @@ pip install compare_packages
 
 3. To run it, you need to run the command in the terminal:
 
-compare_packages <first branch> <second branch>
+compare_packages <first_branch> <second_branch>
 
